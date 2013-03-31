@@ -1,0 +1,4 @@
+name: SlowTime
+author: Lucariatias
+version: 0.0.1
+main: com.gildorym.slowtime.SlowTime
